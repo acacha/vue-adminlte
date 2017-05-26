@@ -1,2 +1,3 @@
 # vue-adminlte
-Adminlte template vue components
+
+See https://github.com/acacha/adminlte-vue
